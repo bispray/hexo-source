@@ -1,7 +1,7 @@
 /*电子钟字体*/
 @font-face {
-  font-family: 'UnidreamLED';
-  src: url("https://unpkg.zhimg.com/akilar-candyassets/fonts/UnidreamLED.ttf");
+  font-family: 'tcdxkj';
+  src: url("https://cdn.jsdelivr.net/gh/bispray/hexo-source@main/hexo-butterfly-footer-beautify/tanchidexiaokeji.ttf");
   font-display: swap;
 }
 div#runtime {
@@ -10,7 +10,7 @@ div#runtime {
   color: #fff;
   padding-inline: 5px;
   background-color: transparent;
-  font-family: 'UnidreamLED';
+  font-family: 'tcdxkj';
 }
 [data-theme="dark"] div#runtime {
   color: #28b4c8;
