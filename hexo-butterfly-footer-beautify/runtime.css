@@ -5,12 +5,11 @@
   font-display: swap;
 }
 div#runtime {
-  width: 180px;
+  width: 300px;
   margin: auto;
   color: #fff;
   padding-inline: 5px;
-  border-radius: 10px;
-  background-color: rgba(0,0,0,0.7);
+  background-color: transparent;
   font-family: 'UnidreamLED';
 }
 [data-theme="dark"] div#runtime {
