@@ -11,6 +11,7 @@ div#runtime {
   padding-inline: 5px;
   background-color: transparent;
   font-family: 'tcdxkj';
+  font-size: 18px;
 }
 [data-theme="dark"] div#runtime {
   color: #28b4c8;
