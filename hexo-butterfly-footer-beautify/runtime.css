@@ -1,7 +1,7 @@
 /*电子钟字体*/
 @font-face {
   font-family: 'tcdxkj';
-  src: url("https://cdn.jsdelivr.net/gh/bispray/hexo-source@main/hexo-butterfly-footer-beautify/tanchidexiaokeji.ttf");
+  src: url("https://bispray-hexo-source.s3.ladydaily.com/tanchidexiaokeji.ttf");
   font-display: swap;
 }
 div#runtime {
